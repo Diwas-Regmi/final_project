@@ -78,7 +78,6 @@ python final_project.py
 ```
 final_project/
 ├── Students/        # Folder containing student images
-├── final_project.py # Main Python script
 ├── attendance.csv   # Output file for attendance logs
 ├── README.md        # Project documentation
 ```
